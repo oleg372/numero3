@@ -7,4 +7,6 @@ That is a simple text for test an editor
 
 Thanks.
 
-O.P.N.
+--
+ Best regards,
+ O.P.N.

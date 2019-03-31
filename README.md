@@ -7,3 +7,4 @@ That is a simple text for test an editor
 
 Thanks.
 
+best regards :)

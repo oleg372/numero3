@@ -6,11 +6,10 @@ namespace TestApp;
 echo '<pre>';
 
 
-
-echo 'Hello World! <br>';
-echo '<hr>';
-echo date('r').'<br>';
-echo time();
+echo '
+Hello World! <br>
+<hr>'. date('r') .'
+<br>'. time();
 
 
 // End

@@ -7,10 +7,10 @@ echo '<pre>';
 
 
 
-echo 'Hello World!';
+echo 'Hello World! <br>';
 echo '<hr>';
-echo date('r');
-
+echo date('r').'<br>';
+echo time();
 
 
 // End
